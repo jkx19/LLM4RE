@@ -1,0 +1,10 @@
+answer/
+mutual/
+openie/
+prompt/
+tacred
+test/
+train/
+__pycache__/
+*.txt
+
